@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+.header{
+    font-size: 64pt;
+    color: slateblue;
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+}
+
+.header-container{
+    width: flex;
+    align-content: center;
+}
+
+.header-container:hover {
+    background-color: aquamarine;
+}
+
+.header-container-img:hover {
+    background-color: lime;
+}
+
+.header-container-img{
+    display: flex;
+    justify-content: center;
+}
